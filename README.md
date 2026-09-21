@@ -105,4 +105,4 @@ Release v1.0.0 is a frozen submission artifact. The confirmatory specification i
 
 ## Citation
 
-Citation metadata are provided in [`CITATION.cff`](CITATION.cff). A Zenodo DOI will be added after the v1.0.0 archival deposit is minted.
+Citation metadata are provided in [`CITATION.cff`](CITATION.cff). The frozen v1.0.0 archive is available at Zenodo: [10.5281/zenodo.22876415](https://doi.org/10.5281/zenodo.22876415).
