@@ -9,6 +9,7 @@ authors:
     affiliation: "Faculty of Engineering, Universidad del Desarrollo, Santiago, Chile"
 repository-code: "https://github.com/mauricio-herrera/instrumental-spillover-networks"
 version: "1.0.0"
+doi: "10.5281/zenodo.22876415"
 date-released: "2026-09-21"
 license: MIT
 keywords:
