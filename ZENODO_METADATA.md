@@ -25,3 +25,8 @@ https://github.com/mauricio-herrera/instrumental-spillover-networks — Is suppl
 ## Related companion project
 
 https://github.com/mauricio-herrera/apparent-criticality-cryptocon — related methodological companion on apparent criticality under common-drive confounding; not a previous version of this deposit.
+
+
+## Published DOI
+10.5281/zenodo.22876415
+https://doi.org/10.5281/zenodo.22876415
