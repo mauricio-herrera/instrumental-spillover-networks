@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this software or reproducibility package, please cite the associated manuscript and archived release."
+title: "Instrumental Spillover Networks: Reproducibility Package"
+type: software
+authors:
+  - family-names: "Herrera-Marín"
+    given-names: "Mauricio"
+    orcid: "https://orcid.org/0000-0002-9604-3077"
+    affiliation: "Faculty of Engineering, Universidad del Desarrollo, Santiago, Chile"
+repository-code: "https://github.com/mauricio-herrera/instrumental-spillover-networks"
+version: "1.0.0"
+date-released: "2026-09-21"
+license: MIT
+keywords:
+  - instrumental variables
+  - weak instruments
+  - Anderson-Rubin inference
+  - spillover networks
+  - Hawkes processes
+  - systemic risk
+  - cryptocurrency
+  - common factors
+  - network inference
+  - spectral radius
+preferred-citation:
+  type: article
+  title: "Contagion or Common Factor? Instrumental Identification and Robust Inference in High-Frequency Spillover Networks"
+  authors:
+    - family-names: "Herrera-Marín"
+      given-names: "Mauricio"
+      orcid: "https://orcid.org/0000-0002-9604-3077"
+  year: 2026

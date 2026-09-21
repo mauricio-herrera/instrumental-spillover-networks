@@ -1,0 +1,207 @@
+\begin{thebibliography}{31}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Acharya et~al.(2017)Acharya, Pedersen, Philippon, and
+  Richardson]{acharya2017}
+Viral~V. Acharya, Lasse~H. Pedersen, Thomas Philippon, and Matthew Richardson.
+\newblock Measuring systemic risk.
+\newblock \emph{Review of Financial Studies}, 30\penalty0 (1):\penalty0 2--47,
+  2017.
+
+\bibitem[Adrian and Brunnermeier(2016)]{adrian2016}
+Tobias Adrian and Markus~K. Brunnermeier.
+\newblock {CoVaR}.
+\newblock \emph{American Economic Review}, 106\penalty0 (7):\penalty0
+  1705--1741, 2016.
+
+\bibitem[A{\"\i}t-Sahalia et~al.(2015)A{\"\i}t-Sahalia, Cacho-Diaz, and
+  Laeven]{aitsahalia2015}
+Yacine A{\"\i}t-Sahalia, Julio Cacho-Diaz, and Roger J.~A. Laeven.
+\newblock Modeling financial contagion using mutually exciting jump processes.
+\newblock \emph{Journal of Financial Economics}, 117\penalty0 (3):\penalty0
+  585--606, 2015.
+
+\bibitem[Anderson and Rubin(1949)]{anderson1949}
+T.~W. Anderson and Herman Rubin.
+\newblock Estimation of the parameters of a single equation in a complete
+  system of stochastic equations.
+\newblock \emph{Annals of Mathematical Statistics}, 20\penalty0 (1):\penalty0
+  46--63, 1949.
+
+\bibitem[Andrews et~al.(2019)Andrews, Stock, and Sun]{andrews2019}
+Isaiah Andrews, James~H. Stock, and Liyang Sun.
+\newblock Weak instruments in instrumental variables regression: Theory and
+  practice.
+\newblock \emph{Annual Review of Economics}, 11:\penalty0 727--753, 2019.
+
+\bibitem[Bacry et~al.(2015)Bacry, Mastromatteo, and Muzy]{bacry2015}
+Emmanuel Bacry, Iacopo Mastromatteo, and Jean-Fran{\c{c}}ois Muzy.
+\newblock Hawkes processes in finance.
+\newblock \emph{Market Microstructure and Liquidity}, 1\penalty0 (1):\penalty0
+  1550005, 2015.
+
+\bibitem[Barigozzi and Brownlees(2019)]{barigozzi2019}
+Matteo Barigozzi and Christian Brownlees.
+\newblock {NETS}: Network estimation for time series.
+\newblock \emph{Journal of Applied Econometrics}, 34\penalty0 (3):\penalty0
+  347--364, 2019.
+
+\bibitem[Barigozzi et~al.(2024)Barigozzi, Cho, and Owens]{barigozzi2023fnets}
+Matteo Barigozzi, Haeran Cho, and Dom Owens.
+\newblock {FNETS}: Factor-adjusted network estimation and forecasting for
+  high-dimensional time series.
+\newblock \emph{Journal of Business \& Economic Statistics}, 42\penalty0
+  (3):\penalty0 890--902, 2024.
+
+\bibitem[Bekaert et~al.(2005)Bekaert, Harvey, and Ng]{bekaert2005}
+Geert Bekaert, Campbell~R. Harvey, and Angela Ng.
+\newblock Market integration and contagion.
+\newblock \emph{Journal of Business}, 78\penalty0 (1):\penalty0 39--69, 2005.
+
+\bibitem[Billio et~al.(2012)Billio, Getmansky, Lo, and Pelizzon]{billio2012}
+Monica Billio, Mila Getmansky, Andrew~W. Lo, and Loriana Pelizzon.
+\newblock Econometric measures of connectedness and systemic risk in the
+  finance and insurance sectors.
+\newblock \emph{Journal of Financial Economics}, 104\penalty0 (3):\penalty0
+  535--559, 2012.
+
+\bibitem[Cai et~al.(2026)Cai, Liu, and Su]{cai2026}
+Zongwu Cai, Xiyuan Liu, and Liangjun Su.
+\newblock A functional-coefficient var model for dynamic quantiles and its
+  application to constructing nonparametric financial network.
+\newblock \emph{Journal of Business \& Economic Statistics}, 44\penalty0
+  (1):\penalty0 162--176, 2026.
+\newblock \doi{10.1080/07350015.2025.2511960}.
+
+\bibitem[Diebold and Y{\i}lmaz(2014)]{diebold2014}
+Francis~X. Diebold and Kamil Y{\i}lmaz.
+\newblock On the network topology of variance decompositions: Measuring the
+  connectedness of financial firms.
+\newblock \emph{Journal of Econometrics}, 182\penalty0 (1):\penalty0 119--134,
+  2014.
+
+\bibitem[Filimonov and Sornette(2015)]{filimonov2015}
+Vladimir Filimonov and Didier Sornette.
+\newblock Apparent criticality and calibration issues in the {H}awkes
+  self-excited point process model: application to high-frequency financial
+  data.
+\newblock \emph{Quantitative Finance}, 15\penalty0 (8):\penalty0 1293--1314,
+  2015.
+
+\bibitem[Forbes and Rigobon(2002)]{forbes2002}
+Kristin~J. Forbes and Roberto Rigobon.
+\newblock No contagion, only interdependence: Measuring stock market
+  comovements.
+\newblock \emph{Journal of Finance}, 57\penalty0 (5):\penalty0 2223--2261,
+  2002.
+
+\bibitem[Fuller(1987)]{fuller1987}
+Wayne~A. Fuller.
+\newblock \emph{Measurement Error Models}.
+\newblock Wiley, New York, 1987.
+
+\bibitem[Hansen(1982)]{hansen1982}
+Lars~Peter Hansen.
+\newblock Large sample properties of generalized method of moments estimators.
+\newblock \emph{Econometrica}, 50\penalty0 (4):\penalty0 1029--1054, 1982.
+
+\bibitem[Hardiman et~al.(2013)Hardiman, Bercot, and Bouchaud]{hardiman2013}
+Stephen~J. Hardiman, Nicolas Bercot, and Jean-Philippe Bouchaud.
+\newblock Critical reflexivity in financial markets: a {H}awkes process
+  analysis.
+\newblock \emph{The European Physical Journal B}, 86\penalty0 (10):\penalty0
+  442, 2013.
+
+\bibitem[Herrera-Mar{\'\i}n(2026)]{companion2026}
+Mauricio Herrera-Mar{\'\i}n.
+\newblock Cascade-risk inference under nonseparable common drive in
+  self-exciting networks.
+\newblock \emph{Manuscript, submitted to the Annals of Applied Statistics},
+  2026.
+
+\bibitem[Horn and Johnson(2013)]{hornjohnson2013}
+Roger~A. Horn and Charles~R. Johnson.
+\newblock \emph{Matrix Analysis}.
+\newblock Cambridge University Press, 2nd edition, 2013.
+
+\bibitem[Kleibergen(2002)]{kleibergen2002}
+Frank Kleibergen.
+\newblock Pivotal statistics for testing structural parameters in instrumental
+  variables regression.
+\newblock \emph{Econometrica}, 70\penalty0 (5):\penalty0 1781--1803, 2002.
+
+\bibitem[Kleibergen(2005)]{kleibergen2005}
+Frank Kleibergen.
+\newblock Testing parameters in {GMM} without assuming that they are
+  identified.
+\newblock \emph{Econometrica}, 73\penalty0 (4):\penalty0 1103--1123, 2005.
+
+\bibitem[Leong(2025)]{leong2025}
+Soon~Heng Leong.
+\newblock Systemic contagion.
+\newblock \emph{Journal of Business \& Economic Statistics}, 43\penalty0
+  (2):\penalty0 468--481, 2025.
+\newblock \doi{10.1080/07350015.2024.2394580}.
+
+\bibitem[Mogensen(2023)]{mogensen2023}
+S{\o}ren~Wengel Mogensen.
+\newblock Instrumental processes using integrated covariances.
+\newblock In \emph{Proceedings of the Second Conference on Causal Learning and
+  Reasoning (CLeaR 2023)}, volume 213 of \emph{Proceedings of Machine Learning
+  Research}, pages 620--641, 2023.
+
+\bibitem[Montiel~Olea and Pflueger(2013)]{montielolea2013}
+Jos{\'e}~Luis Montiel~Olea and Carolin Pflueger.
+\newblock A robust test for weak instruments.
+\newblock \emph{Journal of Business \& Economic Statistics}, 31\penalty0
+  (3):\penalty0 358--369, 2013.
+
+\bibitem[Pesaran(2006)]{pesaran2006}
+M.~Hashem Pesaran.
+\newblock Estimation and inference in large heterogeneous panels with a
+  multifactor error structure.
+\newblock \emph{Econometrica}, 74\penalty0 (4):\penalty0 967--1012, 2006.
+
+\bibitem[Sargan(1958)]{sargan1958}
+J.~D. Sargan.
+\newblock The estimation of economic relationships using instrumental
+  variables.
+\newblock \emph{Econometrica}, 26\penalty0 (3):\penalty0 393--415, 1958.
+
+\bibitem[Staiger and Stock(1997)]{staiger1997}
+Douglas Staiger and James~H. Stock.
+\newblock Instrumental variables regression with weak instruments.
+\newblock \emph{Econometrica}, 65\penalty0 (3):\penalty0 557--586, 1997.
+
+\bibitem[Stock and Yogo(2005)]{stockyogo2005}
+James~H. Stock and Motohiro Yogo.
+\newblock Testing for weak instruments in linear {IV} regression.
+\newblock In Donald W.~K. Andrews and James~H. Stock, editors,
+  \emph{Identification and Inference for Econometric Models: Essays in Honor of
+  Thomas Rothenberg}, pages 80--108. Cambridge University Press, 2005.
+
+\bibitem[Wald(1940)]{wald1940}
+Abraham Wald.
+\newblock The fitting of straight lines if both variables are subject to error.
+\newblock \emph{Annals of Mathematical Statistics}, 11\penalty0 (3):\penalty0
+  284--300, 1940.
+
+\bibitem[Wheatley et~al.(2019)Wheatley, Wehrli, and Sornette]{wheatley2019}
+Spencer Wheatley, Alexander Wehrli, and Didier Sornette.
+\newblock The endo--exo problem in high frequency financial price fluctuations
+  and rejecting criticality.
+\newblock \emph{Quantitative Finance}, 19\penalty0 (7):\penalty0 1165--1178,
+  2019.
+
+\bibitem[Xu et~al.(2024)Xu, Wang, Shin, and Zheng]{xu2024}
+Xiu Xu, Weining Wang, Yongcheol Shin, and Chaowen Zheng.
+\newblock Dynamic network quantile regression model.
+\newblock \emph{Journal of Business \& Economic Statistics}, 42\penalty0
+  (2):\penalty0 407--421, 2024.
+\newblock \doi{10.1080/07350015.2022.2093882}.
+
+\end{thebibliography}

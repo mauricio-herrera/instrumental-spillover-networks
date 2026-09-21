@@ -1,0 +1,6 @@
+strong (nf2=1200,tau=.5)           K=5 T=2000 F~  1990.4 | membership coverage 0.9745 (MC se 0.0016)  [49s]
+moderate (nf2=60,tau=.5)           K=5 T=2000 F~    22.7 | membership coverage 0.9746 (MC se 0.0016)  [49s]
+weak (nf2=8,tau=.7)                K=5 T=2000 F~     0.4 | membership coverage 0.9763 (MC se 0.0015)  [49s]
+K=10 moderate                      K=10 T=2000 F~    22.2 | membership coverage 0.9767 (MC se 0.0015)  [150s]
+VIOLATION corr(e1,e2)=0.3, moderate K=5 T=2000 F~   322.9 | membership coverage 0.0000 (MC se 0.0000)  [14s]
+t(5) errors, moderate              K=5 T=2000 F~    24.1 | membership coverage 0.9761 (MC se 0.0015)  [51s]

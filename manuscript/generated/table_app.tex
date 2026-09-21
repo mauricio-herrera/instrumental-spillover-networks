@@ -1,0 +1,27 @@
+\begin{table}[t]
+\centering\small
+\caption{Cryptocurrency spillover networks, primary equal-weight specification (split S1, lag 1). $F_{\rm eff}$ is the HAC-robust effective first-stage statistic; $\Delta\rho=\rho_{\rm naive}-\rho_{\rm 2SLS}$. $S^{\rm AR}_{.05}=\varnothing$ means that the joint Anderson--Rubin/reduced-form confidence restrictions have no intersection with the maintained nonnegative-excitation cone. ``Incompat.'' is the number of the 18 rowwise structural restrictions that are incompatible in the diagnostic decomposition; $J$ rej. is the number of asset-level HAC Hansen tests rejecting at 5\%.}
+\label{tab:app}
+\begin{tabular}{llrrrrlrr}
+\toprule
+window & $q$ & $F_{\rm eff}$ & $\rho_{\rm naive}$ & $\rho_{\rm 2SLS}$ & $\Delta\rho$ & $S^{\rm AR}_{.05}$ & Incompat. & $J$ rej.\\
+\midrule
+Terra/Luna & 0.95 & 4339 & 1.786 & 1.624 & 0.162 & $\varnothing$ & 17/18 & 0/18 \\
+Terra/Luna & 0.97 & 4405 & 2.005 & 1.915 & 0.090 & $\varnothing$ & 18/18 & 0/18 \\
+FTX collapse & 0.95 & 1397 & 1.836 & 1.465 & 0.371 & $\varnothing$ & 15/18 & 1/18 \\
+FTX collapse & 0.97 & 1444 & 1.867 & 1.584 & 0.283 & $\varnothing$ & 17/18 & 0/18 \\
+Banking/crypto & 0.95 & 1743 & 1.476 & 1.314 & 0.162 & $\varnothing$ & 3/18 & 3/18 \\
+Banking/crypto & 0.97 & 1823 & 1.613 & 1.439 & 0.175 & $\varnothing$ & 8/18 & 2/18 \\
+Control Aug-A & 0.95 & 667 & 1.602 & 1.391 & 0.211 & $\varnothing$ & 3/18 & 1/18 \\
+Control Aug-A & 0.97 & 686 & 1.666 & 1.553 & 0.113 & $\varnothing$ & 2/18 & 1/18 \\
+Control Aug-B & 0.95 & 1181 & 1.418 & 1.284 & 0.134 & $\varnothing$ & 2/18 & 5/18 \\
+Control Aug-B & 0.97 & 1241 & 1.355 & 1.266 & 0.088 & $\varnothing$ & 1/18 & 2/18 \\
+Control Oct & 0.95 & 567 & 1.380 & 1.121 & 0.259 & $\varnothing$ & 4/18 & 1/18 \\
+Control Oct & 0.97 & 623 & 1.461 & 1.287 & 0.174 & $\varnothing$ & 3/18 & 1/18 \\
+Control Jan & 0.95 & 406 & 2.137 & 1.883 & 0.254 & $\varnothing$ & 16/18 & 0/18 \\
+Control Jan & 0.97 & 432 & 2.050 & 1.790 & 0.261 & $\varnothing$ & 15/18 & 1/18 \\
+Control Feb & 0.95 & 554 & 1.620 & 1.442 & 0.178 & $\varnothing$ & 7/18 & 2/18 \\
+Control Feb & 0.97 & 574 & 1.586 & 1.425 & 0.161 & $\varnothing$ & 5/18 & 1/18 \\
+\bottomrule
+\end{tabular}
+\end{table}

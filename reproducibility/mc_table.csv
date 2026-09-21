@@ -1,0 +1,4 @@
+regime,first_stage_F,bias_naive,bias_ols_proxy,bias_2sls,sd_2sls,cov_2sls_wald,cov_ar_proj,ar_width,ar_unbounded_reps,reps
+strong,2023.5,0.285,0.082,0.016,0.03,0.900,1.000,0.86,0,50
+moderate,27.6,0.285,0.251,0.121,0.16,0.620,1.000,1.57,2,50
+weak,1.4,0.285,0.284,1.937,3.14,0.680,1.000,3.01,50,50
